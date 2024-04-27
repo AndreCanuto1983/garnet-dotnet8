@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# Default severity for analyzer diagnostics with category 'Critical Vulnerability'
+dotnet_analyzer_diagnostic.category-Critical Vulnerability.severity = none
